@@ -1,0 +1,234 @@
+{
+  "header": {
+    "penddingTask": {
+      "quantity": 11,
+      "list": [{
+        "taskName": "staff Meeting",
+        "date": "today"
+      }, {
+        "taskName": "New frontend layout",
+        "date": "today"
+      }, {
+        "taskName": "Hire developers",
+        "date": "tommorow"
+      }, {
+        "taskName": "staff Meeting",
+        "date": "tommorow"
+      }, {
+        "taskName": "New frontend layout",
+        "date": "this week"
+      }, {
+        "taskName": "Hire developers",
+        "date": "this week"
+      }, {
+        "taskName": "New frontend layout",
+        "date": "this month"
+      }, {
+        "taskName": "Hire developers",
+        "date": "this month"
+      }, {
+        "taskName": "staff Meeting",
+        "date": "today"
+      }, {
+        "taskName": "New frontend layout",
+        "date": "today"
+      }, {
+        "taskName": "New frontend layout",
+        "date": "this month"
+      }]
+    },
+    "notifications": {
+      "quantity": 10,
+      "list": [{
+        "itemName": "New user registration",
+        "date": "1 min",
+        "icon": "glyphicon glyphicon-user label-primary"
+      }, {
+        "itemName": "New comment",
+        "date": "7 min",
+        "icon": "glyphicon glyphicon-comment label-success"
+      }, {
+        "itemName": "New comment",
+        "date": "8 min",
+        "icon": "glyphicon glyphicon-comment label-success"
+      }, {
+        "itemName": "New comment",
+        "date": "16 min",
+        "icon": "glyphicon glyphicon-comment label-success"
+      }, {
+        "itemName": "New user registration",
+        "date": "36 min",
+        "icon": "glyphicon glyphicon-user label-primary"
+      }, {
+        "itemName": "2 items sold",
+        "date": "1 hour",
+        "icon": "glyphicon glyphicon-shopping-cart label-warning"
+      }, {
+        "itemName": "User deleted account",
+        "date": "2 hour",
+        "icon": "glyphicon glyphicon-user label-danger"
+      }, {
+        "itemName": "Transaction was canceled",
+        "date": "6 hour",
+        "icon": "glyphicon glyphicon-shopping-cart label-danger"
+      }, {
+        "itemName": "New comment",
+        "date": "yesterday",
+        "icon": "glyphicon glyphicon-comment label-success"
+      }, {
+        "itemName": "New comment",
+        "date": "yesterday",
+        "icon": "glyphicon glyphicon-comment label-success"
+      }]
+    },
+    "messages": {
+      "quantity": 9,
+      "list": [{
+        "proPic": "/static/img/9.jpg",
+        "name": "Nicole Bell",
+        "cont": "Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit,eget lacinia odio sem nec elit",
+        "date": "Just Now"
+      }, {
+        "proPic": "/static/img/10.jpg",
+        "name": "Peter Clark",
+        "cont": "Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit,eget lacinia odio sem nec elit",
+        "date": "2 mins"
+      }, {
+        "proPic": "/static/img/11.jpg",
+        "name": "Steven Thompson",
+        "cont": "Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit,eget lacinia odio sem nec elit",
+        "date": "8 hrs"
+      }, {
+        "proPic": "/static/img/12.jpg",
+        "name": "leborn James",
+        "cont": "Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit,eget lacinia odio sem nec elit",
+        "date": "9 hrs"
+      }, {
+        "proPic": "/static/img/13.jpg",
+        "name": "Kenneth Ross",
+        "cont": "Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit,eget lacinia odio sem nec elit",
+        "date": "14 hrs"
+      }]
+    }
+  },
+  "withFriends": {
+    "chatList": {
+      "onLine": [{
+        "proPic": "/static/img/9.jpg",
+        "name": "Nicole Bell",
+        "job": "Conent Designer",
+        "newMsg": false
+      }, {
+        "proPic": "/static/img/10.jpg",
+        "name": "Steven Thompson",
+        "job": "Visual Designer",
+        "newMsg": 3
+      }, {
+        "proPic": "/static/img/11.jpg",
+        "name": "Ella Patterson",
+        "job": "Web Editor",
+        "newMsg": false
+      }, {
+        "proPic": "/static/img/12.jpg",
+        "name": "Kenneth Ross",
+        "job": "Senior Designer",
+        "newMsg": false
+      }],
+      "offLine": [{
+        "proPic": "/static/img/9.jpg",
+        "name": "Nicole Bell",
+        "job": "Conent Designer",
+        "newMsg": false
+      }, {
+        "proPic": "/static/img/10.jpg",
+        "name": "Steven Thompson",
+        "job": "Visual Designer",
+        "newMsg": 3
+      }, {
+        "proPic": "/static/img/11.jpg",
+        "name": "Ella Patterson",
+        "job": "Web Editor",
+        "newMsg": false
+      }, {
+        "proPic": "/static/img/12.jpg",
+        "name": "Kenneth Ross",
+        "job": "Senior Designer",
+        "newMsg": false
+      }, {
+        "proPic": "/static/img/10.jpg",
+        "name": "Steven Thompson",
+        "job": "Visual Designer",
+        "newMsg": 3
+      }, {
+        "proPic": "/static/img/11.jpg",
+        "name": "Ella Patterson",
+        "job": "Web Editor",
+        "newMsg": false
+      }]
+    },
+    "favourite": [{
+      "proPic": "/static/img/9.jpg",
+      "name": "Nicole Bell",
+      "job": "Conent Designer",
+      "newMsg": false
+    }, {
+      "proPic": "/static/img/10.jpg",
+      "name": "Steven Thompson",
+      "job": "Visual Designer",
+      "newMsg": 3
+    }, {
+      "proPic": "/static/img/11.jpg",
+      "name": "Ella Patterson",
+      "job": "Web Editor",
+      "newMsg": false
+    }, {
+      "proPic": "/static/img/12.jpg",
+      "name": "Kenneth Ross",
+      "job": "Senior Designer",
+      "newMsg": false
+    }, {
+      "proPic": "/static/img/9.jpg",
+      "name": "Nicole Bell",
+      "job": "Conent Designer",
+      "newMsg": false
+    }, {
+      "proPic": "/static/img/10.jpg",
+      "name": "Steven Thompson",
+      "job": "Visual Designer",
+      "newMsg": 3
+    }, {
+      "proPic": "/static/img/11.jpg",
+      "name": "Ella Patterson",
+      "job": "Web Editor",
+      "newMsg": false
+    }, {
+      "proPic": "/static/img/12.jpg",
+      "name": "Kenneth Ross",
+      "job": "Senior Designer",
+      "newMsg": false
+    }, {
+      "proPic": "/static/img/9.jpg",
+      "name": "Nicole Bell",
+      "job": "Conent Designer",
+      "newMsg": false
+    }, {
+      "proPic": "/static/img/10.jpg",
+      "name": "Steven Thompson",
+      "job": "Visual Designer",
+      "newMsg": 3
+    }, {
+      "proPic": "/static/img/11.jpg",
+      "name": "Ella Patterson",
+      "job": "Web Editor",
+      "newMsg": false
+    }, {
+      "proPic": "/static/img/12.jpg",
+      "name": "Kenneth Ross",
+      "job": "Senior Designer",
+      "newMsg": false
+    }]
+  },
+  "login": {
+    "state": "success"
+  }
+}

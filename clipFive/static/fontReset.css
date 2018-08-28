@@ -1,0 +1,41 @@
+@font-face {
+  font-family: Myriad-Thin;
+  src: url('/static/font/MyriadSetPro-Thin.ttf')
+}
+
+@font-face {
+  font-family: Myriad-bold;
+  src: url('/static/font/MyriadSetPro-Semibold.ttf')
+}
+
+@font-face {
+  font-family: Myriad-Reg;
+  src: url('/static/font/MyriadPro-Regular.otf')
+}
+
+@font-face {
+  font-family: Myriad-It;
+  src: url('/static/font/MyriadPro-It.otf')
+}
+
+* {
+  font-size: 12px;
+}
+
+p {
+  margin: 0;
+}
+
+ol,
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+div {
+  margin: 0;
+}
+
+body {
+  width: 100%;
+}
